@@ -1,0 +1,77 @@
+.TH UserManager
+.SH NAME
+User manager 
+.SH SYNOPSIS
+.PP
+.B 1
+[\fR\fIuserName\fR]
+.PP
+.B 2
+[\fR\fIuserName\fR]
+.PP
+.B 3
+[\fR\fIgroupName\fR]
+.PP
+.B 4
+[\fR\fIgroupName\fR]
+.PP
+.B 5
+[\fR\fIuserName\fR]
+[\fR\fIgroupName\fR]
+.PP
+.B 6
+[\fR\fINewUserName\fR]
+[\fR\fICurrentUserName\fR]
+.PP
+.B 7
+[\fR\fIuserName\fR]
+[\fR\fINewID\fR]
+.PP
+.B 8
+[\fR\fIuserName\fR]
+[\fR\fINumberOfDays\fR]
+.PP
+.B 9
+[\fR\fIuserName\fR]
+[\fR\fIpasswordOfLoggedInUser\fR]
+[\fR\fINewpasswordOfUser\fR]
+.PP
+.B 10
+[\fR\fINewpassword\fR]
+.SH DESCRIPTION
+.PP
+.B 0
+exit program
+.PP
+.B 1
+Add a user
+.PP
+.B 2
+Delete a user
+.PP
+.B 3
+Add a group
+.PP
+.B 4
+Delete a group
+.PP
+.B 5
+Assign specific user to specific group
+.PP
+.B 6
+change user name of a user
+.PP
+.B 7
+change id of a user
+.PP
+.B 8
+change password expiration of a user
+.PP
+.B 9
+change password of a user
+.PP
+.B 10
+change your password
+
+
+
